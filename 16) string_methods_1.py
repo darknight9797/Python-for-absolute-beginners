@@ -22,4 +22,5 @@ split = mixed_case.split(" ")
 
 print(split)
 
+
 print("-".join(split).isalpha())

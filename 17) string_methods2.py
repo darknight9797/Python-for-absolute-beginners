@@ -13,4 +13,5 @@ print(centre_plus.rstrip("+"))
 
 print(centre_plus.strip("+"))
 
+
 print(_string.replace("North","South"))
